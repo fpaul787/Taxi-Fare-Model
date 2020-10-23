@@ -5,6 +5,10 @@ VisualStudioVersion = 16.0.30611.23
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaxiFareModel", "TaxiFareModel\TaxiFareModel.csproj", "{003AC7E7-F47E-4AB5-B498-4A94F2039051}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TaxiFareModelML.Model", "TaxiFareModelML.Model\TaxiFareModelML.Model.csproj", "{80E87A7D-FEE2-436F-ACCB-0E297CB166D7}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TaxiFareModelML.ConsoleApp", "TaxiFareModelML.ConsoleApp\TaxiFareModelML.ConsoleApp.csproj", "{84BF3783-9E8B-47C0-82D1-74F6FCA6872D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{003AC7E7-F47E-4AB5-B498-4A94F2039051}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{003AC7E7-F47E-4AB5-B498-4A94F2039051}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{003AC7E7-F47E-4AB5-B498-4A94F2039051}.Release|Any CPU.Build.0 = Release|Any CPU
+		{80E87A7D-FEE2-436F-ACCB-0E297CB166D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80E87A7D-FEE2-436F-ACCB-0E297CB166D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80E87A7D-FEE2-436F-ACCB-0E297CB166D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80E87A7D-FEE2-436F-ACCB-0E297CB166D7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{84BF3783-9E8B-47C0-82D1-74F6FCA6872D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84BF3783-9E8B-47C0-82D1-74F6FCA6872D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84BF3783-9E8B-47C0-82D1-74F6FCA6872D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84BF3783-9E8B-47C0-82D1-74F6FCA6872D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
